@@ -10,8 +10,8 @@ This module has a Molecule object and provides some manipulation
 
 Available techniques:
 
--distance
--*bonds*
+	distance
+	*bonds*
 
 A link to `Google <www.google.com>`_.
 
@@ -20,6 +20,7 @@ A link to `Google <www.google.com>`_.
    :caption: Contents:
 
    something
+   api
 
 Indices and tables
 ==================
